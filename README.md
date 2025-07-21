@@ -1,3 +1,3 @@
-# Labs
+# Homelabs
 
-Homelabs of all content.
+Labs of all content.
